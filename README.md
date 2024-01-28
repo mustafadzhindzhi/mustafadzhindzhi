@@ -40,5 +40,5 @@ Feel free to explore my repositories and provide feedback. I'm always eager to l
 
 [![GitHub](https://img.shields.io/badge/GitHub-Black?style=for-the-badge&logo=github)](https://github.com/mustafadzhindzhi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafa-dzhindzhi-2a078925b/)
-[![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail)](mailto:dzindzimustafa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail)](mailto:dzhindzhimustafa@gmail.com)
 # About-me
