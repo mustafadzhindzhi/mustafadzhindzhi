@@ -29,14 +29,14 @@ My tech stack is powered by the following technologies:
 
 In addition to my core tech stack:
 
-![Git Logo](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML Logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Logo](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![styled-components Logo](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Mongoose Logo](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Git Logo](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![HTML Logo](https://img.shields.io/badge/HTML5-brown?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Logo](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![styled-components Logo](https://img.shields.io/badge/styled_components-pink?style=for-the-badge&logo=styled-components&logoColor=white)
+![Mongoose Logo](https://img.shields.io/badge/Mongoose-maroon?style=for-the-badge&logo=mongoose&logoColor=white)
 
 Feel free to explore my repositories and provide feedback. I'm always eager to learn and improve!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Black?style=for-the-badge&logo=github)](https://github.com/mustafadzhindzhi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafa-dzhindzhi-2a078925b/)
-[![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail)](mailto:dzhindzhimustafa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github)](https://github.com/mustafadzhindzhi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafa-dzhindzhi-2a078925b/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:dzhindzhimustafa@gmail.com)
