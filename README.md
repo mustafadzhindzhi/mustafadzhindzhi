@@ -7,7 +7,9 @@ I'm Mustafa, an enthusiastic programmer deeply engaged in SoftUni University's J
 
 ## 🎯 About Me
 🌏 I love exploring new cultures and learning new languages!
+
 ⚡ Eagerly embracing fresh opportunities to broaden my skill set.
+
 🚀 Proud of this year's achievements and driven for the upcoming challenges.
 
 
