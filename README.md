@@ -6,12 +6,9 @@
 I'm Mustafa, an enthusiastic programmer deeply engaged in SoftUni University's JavaScript curriculum. This immersive program encompasses fundamental and advanced language concepts. Over the past year, I've wholeheartedly dedicated myself to refining my technical prowess and broadening expertise in JavaScript, Node.js, React, MongoDB, and other state-of-the-art technologies. Actively seeking collaborative opportunities, I thrive on translating theoretical knowledge into practical solutions, contributing to the dynamic landscape of coding.
 
 ## 🎯 About Me
-🌏 I love exploring new cultures and learning new languages!
-
-⚡ Eagerly embracing fresh opportunities to broaden my skill set.
-
-🚀 Proud of this year's achievements and driven for the upcoming challenges.
-
+- 🌏 I love exploring new cultures and learning new languages!
+- ⚡ Eagerly embracing fresh opportunities to broaden my skill set.
+- 🚀 Proud of this year's achievements and driven for the upcoming challenges.
 
 ## 🌌 Unveiling Horizons
 
