@@ -32,7 +32,7 @@ In addition to my core tech stack:
 ![Git Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML Logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Logo](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![styled-components Logo](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![styled-components Logo](https://img.shields.io/badge/styled_components-008080?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Mongoose Logo](https://img.shields.io/badge/Mongoose-4DB33D?style=for-the-badge&logo=mongoose&logoColor=white)
 
 Feel free to explore my repositories and provide feedback. I'm always eager to learn and improve!
